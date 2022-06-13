@@ -1,0 +1,9 @@
+C:\Users\Bodix\SPS\Library-3\bin\Debug\Library-3.dll
+C:\Users\Bodix\SPS\Library-3\bin\Debug\Library-3.pdb
+C:\Users\Bodix\SPS\Library-3\obj\Debug\Library-3.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\Library-3\obj\Debug\Library-3.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\Library-3\obj\Debug\Library-3.dll
+C:\Users\Bodix\SPS\Library-3\obj\Debug\Library-3.pdb
+C:\Users\Bodix\SPS\Library-3\bin\Debug\Library-1.dll
+C:\Users\Bodix\SPS\Library-3\bin\Debug\Library-1.pdb
+C:\Users\Bodix\SPS\Library-3\obj\Debug\Library-3.csproj.CopyComplete

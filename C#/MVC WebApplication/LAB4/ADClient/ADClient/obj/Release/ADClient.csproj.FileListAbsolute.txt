@@ -1,0 +1,5 @@
+C:\WORK\LAB4\ADClient\ADClient\bin\ADClient.dll
+C:\WORK\LAB4\ADClient\ADClient\bin\ADClient.pdb
+C:\WORK\LAB4\ADClient\ADClient\obj\Release\ResolveAssemblyReference.cache
+C:\WORK\LAB4\ADClient\ADClient\obj\Release\ADClient.dll
+C:\WORK\LAB4\ADClient\ADClient\obj\Release\ADClient.pdb

@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.exe
+   logfile = C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.InstallLog
+Устанавливается служба CHAP-server...
+Служба CHAP-server успешно установлена.
+Создается исходный EventLog CHAP-server в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.exe
+   logfile = C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.InstallLog

@@ -1,0 +1,13 @@
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-4.dll
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-4.pdb
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-1.dll
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-2.dll
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-3.dll
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-1.pdb
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-2.pdb
+C:\Users\Bodix\SPS\Library-4\bin\Debug\Library-3.pdb
+C:\Users\Bodix\SPS\Library-4\obj\Debug\Library-4.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\Library-4\obj\Debug\Library-4.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\Library-4\obj\Debug\Library-4.csproj.CopyComplete
+C:\Users\Bodix\SPS\Library-4\obj\Debug\Library-4.dll
+C:\Users\Bodix\SPS\Library-4\obj\Debug\Library-4.pdb

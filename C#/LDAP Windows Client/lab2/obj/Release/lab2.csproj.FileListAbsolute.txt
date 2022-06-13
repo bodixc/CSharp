@@ -1,0 +1,8 @@
+C:\WORK\lab2\lab2\bin\Release\lab2.exe
+C:\WORK\lab2\lab2\bin\Release\lab2.pdb
+C:\WORK\lab2\lab2\obj\Release\ResolveAssemblyReference.cache
+C:\WORK\lab2\lab2\obj\Release\lab2.Form1.resources
+C:\WORK\lab2\lab2\obj\Release\lab2.Properties.Resources.resources
+C:\WORK\lab2\lab2\obj\Release\lab2.csproj.GenerateResource.Cache
+C:\WORK\lab2\lab2\obj\Release\lab2.exe
+C:\WORK\lab2\lab2\obj\Release\lab2.pdb

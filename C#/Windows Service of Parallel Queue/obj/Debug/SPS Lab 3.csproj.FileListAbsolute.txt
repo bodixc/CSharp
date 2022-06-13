@@ -1,0 +1,9 @@
+C:\Users\Bodix\SPS\SPS Lab 3\bin\Debug\SPS Lab 3.exe.config
+C:\Users\Bodix\SPS\SPS Lab 3\bin\Debug\SPS Lab 3.exe
+C:\Users\Bodix\SPS\SPS Lab 3\bin\Debug\SPS Lab 3.pdb
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Debug\SPS_Lab_3.ProjectInstaller.resources
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Debug\SPS Lab 3.csproj.GenerateResource.cache
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Debug\SPS Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Debug\SPS Lab 3.exe
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Debug\SPS Lab 3.pdb
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Debug\SPS Lab 3.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Bodix\SPS\LAB1.1\bin\Debug\LAB1.1.exe.config
+C:\Users\Bodix\SPS\LAB1.1\bin\Debug\LAB1.1.exe
+C:\Users\Bodix\SPS\LAB1.1\bin\Debug\LAB1.1.pdb
+C:\Users\Bodix\SPS\LAB1.1\obj\Debug\LAB1.1.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\LAB1.1\obj\Debug\LAB1.1.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\LAB1.1\obj\Debug\LAB1.1.exe
+C:\Users\Bodix\SPS\LAB1.1\obj\Debug\LAB1.1.pdb

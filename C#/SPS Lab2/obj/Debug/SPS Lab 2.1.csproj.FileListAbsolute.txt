@@ -1,0 +1,24 @@
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\SPS Lab 2.1.exe.config
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\SPS Lab 2.1.exe
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\SPS Lab 2.1.pdb
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS Lab 2.1.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS_Lab_2._1.Form1.resources
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS_Lab_2._1.Properties.Resources.resources
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS Lab 2.1.csproj.GenerateResource.cache
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS Lab 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS Lab 2.1.exe
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS Lab 2.1.pdb
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS_Lab_2._1.Form2.resources
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\MySql.Data.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\Google.Protobuf.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\Zstandard.Net.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\System.Memory.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\System.Buffers.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Bodix\SPS\SPS Lab 2.1\obj\Debug\SPS Lab 2.1.csproj.CopyComplete

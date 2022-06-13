@@ -1,0 +1,8 @@
+C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.exe.config
+C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.exe
+C:\Users\Bodix\SPS\SPS Lab4.2\bin\Debug\SPS Lab4.2.pdb
+C:\Users\Bodix\SPS\SPS Lab4.2\obj\Debug\SPS_Lab4._2.ProjectInstaller.resources
+C:\Users\Bodix\SPS\SPS Lab4.2\obj\Debug\SPS Lab4.2.csproj.GenerateResource.cache
+C:\Users\Bodix\SPS\SPS Lab4.2\obj\Debug\SPS Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\SPS Lab4.2\obj\Debug\SPS Lab4.2.exe
+C:\Users\Bodix\SPS\SPS Lab4.2\obj\Debug\SPS Lab4.2.pdb

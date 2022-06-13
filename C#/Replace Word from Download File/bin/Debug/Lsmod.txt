@@ -1,0 +1,27 @@
+Module                  Size  Used by
+input_leds             16384  0
+serio_raw              16384  0
+i2c_piix4              20480  0
+mac_hid                16384  0
+binfmt_misc            20480  1
+parport_pc             32768  1
+ppdev                  20480  0
+lp                     20480  0
+parport                45056  3 lp,parport_pc,ppdev
+autofs4                40960  2
+btrfs                1101824  0
+xor                    28672  1 btrfs
+raid6_pq              106496  1 btrfs
+dm_mirror              24576  0
+dm_region_hash         20480  1 dm_mirror
+dm_log                 20480  2 dm_mirror,dm_region_hash
+pata_acpi              16384  0
+aic7xxx               126976  2
+psmouse               122880  0
+scsi_transport_spi     28672  1 aic7xxx
+e100                   36864  0
+pata_serverworks       16384  0
+sworks_agp             16384  0
+mii                    16384  1 e100
+floppy                 61440  0
+fjes                   61440  0

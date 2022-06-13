@@ -1,0 +1,10 @@
+C:\Users\Bodix\SPS\SPS Lab1.4\bin\Debug\SPS Lab1.4.exe.config
+C:\Users\Bodix\SPS\SPS Lab1.4\bin\Debug\SPS Lab1.4.exe
+C:\Users\Bodix\SPS\SPS Lab1.4\bin\Debug\SPS Lab1.4.pdb
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS Lab1.4.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS_Lab1._4.Form1.resources
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS_Lab1._4.Properties.Resources.resources
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS Lab1.4.csproj.GenerateResource.cache
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS Lab1.4.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS Lab1.4.exe
+C:\Users\Bodix\SPS\SPS Lab1.4\obj\Debug\SPS Lab1.4.pdb

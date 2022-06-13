@@ -1,0 +1,5 @@
+C:\WORK\LAB4\YourIP\YourIP\bin\YourIP.dll
+C:\WORK\LAB4\YourIP\YourIP\bin\YourIP.pdb
+C:\WORK\LAB4\YourIP\YourIP\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\LAB4\YourIP\YourIP\obj\Debug\YourIP.dll
+C:\WORK\LAB4\YourIP\YourIP\obj\Debug\YourIP.pdb

@@ -1,0 +1,8 @@
+C:\WORK\LAB31\LAB31\obj\Debug\ResolveAssemblyReference.cache
+C:\WORK\LAB31\LAB31\obj\Debug\LAB31.Form1.resources
+C:\WORK\LAB31\LAB31\obj\Debug\LAB31.Properties.Resources.resources
+C:\WORK\LAB31\LAB31\obj\Debug\LAB31.csproj.GenerateResource.Cache
+C:\WORK\LAB31\LAB31\bin\Debug\LAB31.exe
+C:\WORK\LAB31\LAB31\bin\Debug\LAB31.pdb
+C:\WORK\LAB31\LAB31\obj\Debug\LAB31.exe
+C:\WORK\LAB31\LAB31\obj\Debug\LAB31.pdb

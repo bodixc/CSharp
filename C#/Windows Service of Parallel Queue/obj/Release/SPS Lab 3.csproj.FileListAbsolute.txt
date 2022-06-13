@@ -1,0 +1,19 @@
+C:\Users\Bodix\SPS\SPS Lab 3\bin\Release\SPS Lab 3.exe.config
+C:\Users\Bodix\SPS\SPS Lab 3\bin\Release\SPS Lab 3.exe
+C:\Users\Bodix\SPS\SPS Lab 3\bin\Release\SPS Lab 3.pdb
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Release\SPS Lab 3.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Release\SPS_Lab_3.ProjectInstaller.resources
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Release\SPS Lab 3.csproj.GenerateResource.cache
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Release\SPS Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Release\SPS Lab 3.exe
+C:\Users\Bodix\SPS\SPS Lab 3\obj\Release\SPS Lab 3.pdb
+F:\SPS\SPS Lab3\bin\Release\SPS Lab 3.exe.config
+F:\SPS\SPS Lab3\bin\Release\SPS Lab 3.exe
+F:\SPS\SPS Lab3\bin\Release\SPS Lab 3.pdb
+F:\SPS\SPS Lab3\obj\Release\SPS Lab 3.csproj.AssemblyReference.cache
+F:\SPS\SPS Lab3\obj\Release\SPS Lab 3.csproj.SuggestedBindingRedirects.cache
+F:\SPS\SPS Lab3\obj\Release\SPS_Lab_3.ProjectInstaller.resources
+F:\SPS\SPS Lab3\obj\Release\SPS Lab 3.csproj.GenerateResource.cache
+F:\SPS\SPS Lab3\obj\Release\SPS Lab 3.csproj.CoreCompileInputs.cache
+F:\SPS\SPS Lab3\obj\Release\SPS Lab 3.exe
+F:\SPS\SPS Lab3\obj\Release\SPS Lab 3.pdb

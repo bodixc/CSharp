@@ -1,0 +1,14 @@
+C:\Users\Bodix\SPS\LabSPS 1.2\obj\Debug\LabSPS 1.2.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\LabSPS 1.2\obj\Debug\LabSPS 1.2.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\LabSPS 1.2\bin\Debug\LabSPS 1.2.exe.config
+C:\Users\Bodix\SPS\LabSPS 1.2\bin\Debug\LabSPS 1.2.exe
+C:\Users\Bodix\SPS\LabSPS 1.2\bin\Debug\LabSPS 1.2.pdb
+C:\Users\Bodix\SPS\LabSPS 1.2\obj\Debug\LabSPS 1.2.exe
+C:\Users\Bodix\SPS\LabSPS 1.2\obj\Debug\LabSPS 1.2.pdb
+C:\Users\Bodix\SPS\SPS Lab1.2\bin\Debug\LabSPS 1.2.exe.config
+C:\Users\Bodix\SPS\SPS Lab1.2\bin\Debug\LabSPS 1.2.exe
+C:\Users\Bodix\SPS\SPS Lab1.2\bin\Debug\LabSPS 1.2.pdb
+C:\Users\Bodix\SPS\SPS Lab1.2\obj\Debug\LabSPS 1.2.csproj.AssemblyReference.cache
+C:\Users\Bodix\SPS\SPS Lab1.2\obj\Debug\LabSPS 1.2.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\SPS Lab1.2\obj\Debug\LabSPS 1.2.exe
+C:\Users\Bodix\SPS\SPS Lab1.2\obj\Debug\LabSPS 1.2.pdb

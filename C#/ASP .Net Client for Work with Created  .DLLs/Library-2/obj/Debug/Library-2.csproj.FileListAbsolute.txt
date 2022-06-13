@@ -1,0 +1,8 @@
+C:\Users\Bodix\SPS\Library-2\bin\Debug\Library-2.dll
+C:\Users\Bodix\SPS\Library-2\bin\Debug\Library-2.pdb
+C:\Users\Bodix\SPS\Library-2\bin\Debug\Library-1.dll
+C:\Users\Bodix\SPS\Library-2\bin\Debug\Library-1.pdb
+C:\Users\Bodix\SPS\Library-2\obj\Debug\Library-2.csproj.CoreCompileInputs.cache
+C:\Users\Bodix\SPS\Library-2\obj\Debug\Library-2.csproj.CopyComplete
+C:\Users\Bodix\SPS\Library-2\obj\Debug\Library-2.dll
+C:\Users\Bodix\SPS\Library-2\obj\Debug\Library-2.pdb
